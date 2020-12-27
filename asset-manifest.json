@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/myrobotfriends.git/static/css/main.fe1a69ba.chunk.css",
+    "main.js": "/myrobotfriends.git/static/js/main.38bd3c41.chunk.js",
+    "main.js.map": "/myrobotfriends.git/static/js/main.38bd3c41.chunk.js.map",
+    "runtime-main.js": "/myrobotfriends.git/static/js/runtime-main.3fbefadd.js",
+    "runtime-main.js.map": "/myrobotfriends.git/static/js/runtime-main.3fbefadd.js.map",
+    "static/js/2.1e92f3c6.chunk.js": "/myrobotfriends.git/static/js/2.1e92f3c6.chunk.js",
+    "static/js/2.1e92f3c6.chunk.js.map": "/myrobotfriends.git/static/js/2.1e92f3c6.chunk.js.map",
+    "index.html": "/myrobotfriends.git/index.html",
+    "static/css/main.fe1a69ba.chunk.css.map": "/myrobotfriends.git/static/css/main.fe1a69ba.chunk.css.map",
+    "static/js/2.1e92f3c6.chunk.js.LICENSE.txt": "/myrobotfriends.git/static/js/2.1e92f3c6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/myrobotfriends.git/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fbefadd.js",
+    "static/js/2.1e92f3c6.chunk.js",
+    "static/css/main.fe1a69ba.chunk.css",
+    "static/js/main.38bd3c41.chunk.js"
+  ]
+}
